@@ -13,7 +13,7 @@ export default createAppContainer(
         SignUp: {
             screen: RegisterScreen,
             navigationOptions: {
-                text: "Log In",
+                text: "log in",
                 headerVisible: true,
             }
         }
